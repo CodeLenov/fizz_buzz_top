@@ -2,10 +2,15 @@
 	text-align: center;
 }
 
+input, button {
+	font-size: 1em;
+}
+
 input {
-	padding-right: 1em;
+	margin-right: 0.5em;
 }
 
 button {
-	padding-left: 1em;
+	margin-left: 0.5em;
+	
 }
