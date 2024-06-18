@@ -11,7 +11,7 @@ function playFizzBuzz() {
 	for (let i=1; i<=input.value; i++) {
 
 		if (i % 3 === 0 && i % 5 === 0) {
-			fizzBuzz += `FizzBuzz<br />`;
+			fizzBuzz += `<em>FizzBuzz</em><br />`;
 		} else if (i % 3 === 0) {
 			fizzBuzz += `Fizz<br />`;
 		} else if (i % 5 === 0) {
