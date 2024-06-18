@@ -8,6 +8,9 @@ button.addEventListener('click', playFizzBuzz);
 
 function playFizzBuzz() {
 
+	output.innerHTML = '';
+	fizzBuzz = '';
+
 	for (let i=1; i<=input.value; i++) {
 
 		if (i % 3 === 0 && i % 5 === 0) {
