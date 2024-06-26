@@ -3,7 +3,8 @@ const button = document.querySelector('button');
 const output = document.querySelector('div');
 let fizzBuzz = '';
 
-input.addEventListener('change', playFizzBuzz)
+// alternative
+// input.addEventListener('change', playFizzBuzz)
 button.addEventListener('click', playFizzBuzz);
 
 function playFizzBuzz() {
