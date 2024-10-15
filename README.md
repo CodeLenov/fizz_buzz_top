@@ -1,5 +1,5 @@
 # fizz_buzz_top
-Fizz Buzz | JavaScript, CSS, HTML | Front End Foundations (JavaScript, CSS, HTML, Git) | 02.9/05 | The Odin Project | 2024
+Fizz Buzz | JavaScript, CSS, HTML | Front End Foundations (JavaScript, CSS, HTML, Git) | 02.1/05 | The Odin Project | 2024
 
 0. Let’s solve Fizz Buzz - https://en.wikipedia.org/wiki/Fizz_buzz
 	Write a program that takes a user’s input and prints the numbers from one to the number the user entered. However, for multiples of three print `Fizz` instead of the number and for the multiples of five print `Buzz`. For numbers which are multiples of both three and five print `FizzBuzz`.
